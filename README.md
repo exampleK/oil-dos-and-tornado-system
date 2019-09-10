@@ -5,6 +5,7 @@
 有两个系统，一开始是dos系统，一键分析execl表格，然后根据液位高度算出油罐有多少升油，展示数据
 
 ![dos系统首页图片](https://github.com/exampleK/oil-dos-and-tornado-system/blob/master/img/dos.jpg)
+
 ------------------------------------------------------
 
 然后第二个系统是用，忘了说，两个系统都是python3写的，第二个后台框架是tornado写的 mysql 数据库，前台找的模板插的数据，莫的东西，就是数据处理麻烦的很
@@ -23,4 +24,5 @@
 ------------------------------------------------------
 
 据地面站师傅交代，液位测量最好在手机操作，所以又做了个apk
+
 ![液位计算](https://github.com/exampleK/oil-dos-and-tornado-system/blob/master/img/apk.jpg)
